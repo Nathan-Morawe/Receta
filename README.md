@@ -1,4 +1,4 @@
-![imagen](https://user-images.githubusercontent.com/91209043/135650380-7aae32cf-f5e5-4b23-8e93-2dbcb6ceea00.png)
+
 # Receta
 Hacer una receta por xml 
 <primerPaso>1. He elegido las etiquetas . <receta>, <ingredientes> y <preparado> para poder dividir la receta en clases elementales.</primerPaso>
