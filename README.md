@@ -1,30 +1,11 @@
 # Receta
 Hacer una receta por xml 
+<primerPaso>1. He elegido las etiquetas . <receta>, <ingredientes> y <preparado> para poder dividir la receta en clases elementales.</primerPaso>
 
-<receta>
-  <ingredientes>
-    Ingredientes:
-
-    1 Kg. de cebollas.
-    2 l. de caldo de carne.
-    100 gr. mantequilla.
-    1 cucharada de harina.
-    100 gr. de queso emmental suizo o gruyére rallado.
-    Pan tostado en rebanadas.
-    Tomillo.
-    1 hoja de laurel.
-    Pimienta
-  </ingredientes>
-  <preparado>
-     Proceso:
-
-    Pelar y partir las cebollas en rodajas finas.
-    Rehogarlas con la mantequilla, sal y pimienta a fuego lento hasta que estén transparentes sin dorarse.
-    Añadir la harina sin dejar de remover.
-    Ponerlo en una cazuela con el caldo, el tomillo y el laurel.
-    Dejar cocer a fuego lento durante unos 15 minutos.
-    -Poner las rebanadas de pan encima, espolvorear el queso y gratinar al horno.
-  </preparado>
-
+![imagen](https://user-images.githubusercontent.com/91209043/135649756-f9b6be30-758f-487e-999a-05ec3603fdb0.png)
   
-  </receta>
+  
+  <segundoPaso>2. He incluido las etiquetas, <paso1>, <paso2>, <paso3> y <pasoFinal> para poder estructural mejor el apartado de preparado.</segundoPaso>
+  
+  
+  
