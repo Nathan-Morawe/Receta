@@ -1,7 +1,9 @@
 
 # Receta
 Hacer una receta por xml 
-<primerPaso>1. He elegido las etiquetas . receta, ingredientes y preparado para poder dividir la receta en clases elementales.</primerPaso>
+<primerPaso>
+  1. He elegido las etiquetas . receta, ingredientes y preparado para poder dividir la receta en clases elementales.
+</primerPaso>
 
 ![imagen](https://user-images.githubusercontent.com/91209043/135649756-f9b6be30-758f-487e-999a-05ec3603fdb0.png)
   
